@@ -4,7 +4,6 @@ def count_strings(array)
   
   array.count do |element|
     #binding.pry
-    if element == String 
       puts String 
   end
   
