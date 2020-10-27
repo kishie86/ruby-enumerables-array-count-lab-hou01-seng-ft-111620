@@ -4,9 +4,7 @@ def count_strings(array)
   
   array.count do |element|
     #binding.pry
-      puts String 
-
-  
+      return Strings
 end
 
   
