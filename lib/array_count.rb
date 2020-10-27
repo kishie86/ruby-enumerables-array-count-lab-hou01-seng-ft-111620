@@ -15,6 +15,5 @@ def count_empty_strings(array)
     element.class == "".empty?
     #binding.pry
   
-  
 end
 end
