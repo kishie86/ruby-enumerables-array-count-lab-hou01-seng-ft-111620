@@ -5,8 +5,8 @@ def count_strings(array)
   array.count do |element|
     #binding.pry
     
-  element.class == String
-      return element.class
+  element.class 
+      
 end
 
   
