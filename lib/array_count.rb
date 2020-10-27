@@ -6,7 +6,7 @@ def count_strings(array)
     #binding.pry
     
   element.class == String
-      return String
+      return element.class
 end
 
   
