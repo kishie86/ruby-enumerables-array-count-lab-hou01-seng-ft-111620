@@ -14,7 +14,7 @@ def count_empty_strings(array)
   array.count do |element|
     element.class == "".empty?
     #binding.pry
-    return String
+    return element.class
   
 end
 end
